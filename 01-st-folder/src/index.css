@@ -12,3 +12,10 @@ body{
   background-color: black;
   color: white;
 }
+
+.card{
+  background-color: red;
+  color: pink;
+  margin: 15px;
+  padding: 10px;
+}
