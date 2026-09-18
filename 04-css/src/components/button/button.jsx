@@ -1,0 +1,12 @@
+import React from 'react'
+import styles from './button.module.css'
+
+const Button = () => {
+  return (
+    <div  >
+      <button className={styles.btn}  >Add profile</button>
+    </div>
+  )
+}
+
+export default Button
